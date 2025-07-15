@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #141414;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.content{
+    background-color: #1f1f1f;
+    height: 600px;
+    width: 350px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+.foto-de-perfil{
+    width: 90px;
+    border-radius: 100px;
+    margin-top: 40px;
+}
+
+.nome-do-usuário{
+    color: #f4f4f4;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 500;
+    font-size: 26px;
+    margin-top: 25px;
+}
+
+.nacionalidade-do-usuário{
+    color: #c3f72c;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.área-do-usuário{
+    color: #a5a5a5;
+    font-family: 'Outfit', sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+    margin-top: 25px;
+}
+
+.social-links{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 280px;
+    margin-top: 25px;
+    width: 100%;
+}
+
+a{
+    background-color: #333333;
+    color: #f8f8f8;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 500;
+    border-radius: 10px;
+    width: 80%;
+    height: 40px;
+    margin: auto;
+    text-decoration: none;
+
+    /* Centralização vertical e horizontal */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+a:hover{
+    color: #343433;
+    background-color: #c3f72c;
+    font-weight: bold;
+}
