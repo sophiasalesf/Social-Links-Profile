@@ -1,5 +1,3 @@
-<img width="1330" height="920" alt="image" src="https://github.com/user-attachments/assets/7b2ca39f-1690-4fae-a2fd-99aa47726238" /># Social Links Profile
-
 Projeto simples em HTML e CSS que exibe um perfil com nome, localização, área de atuação e links para redes sociais.
 
 ## Funcionalidades
