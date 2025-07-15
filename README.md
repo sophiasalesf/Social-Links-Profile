@@ -28,3 +28,7 @@ Projeto simples em HTML e CSS que exibe um perfil com nome, localização, área
 ## Screenshot 2
 
 <img width="994" height="686" alt="image" src="https://github.com/user-attachments/assets/529fe88c-155d-469e-87c2-b2a50828a8b8" />
+
+## Acesse em:
+
+https://sophiasalesf.github.io/Social-Links-Profile/
