@@ -20,6 +20,3 @@ Projeto simples em HTML e CSS que exibe um perfil com nome, localização, área
 
 - HTML5
 - CSS3
-
-## Estrutura de Pastas
-
